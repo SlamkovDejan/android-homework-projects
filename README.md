@@ -4,7 +4,7 @@
 This repository holds the solutions for the laboratory/homework exercises for the Android course at FCSE - Skopje.
 You can find the requirements of each homework in their respective folder.
 
-The Android course covers topics about developing apps on the Android OS for smartphones. The homework
+The Android course covers topics about developing apps on the Android OS for smartphones in `Java`. The homework
 is meant to help us gain some hands on experience with the topics we cover in theory.
 
 Some of the topics covered in the course that are reflected in these projects:
